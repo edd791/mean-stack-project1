@@ -1,0 +1,88 @@
+body {
+	background-image: url('images/spring1.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    background-color: #464646;  
+      
+
+}
+
+.navbar-default .navbar-text{
+	color:black;
+}
+
+.navbar-default .navbar-brand{
+	color:black;
+	line-height: 15px;
+	font-size: 25px;
+}
+
+body {
+	padding-top:70px;
+	width: 100%;
+    height: 100%;
+	width: 100%;
+    height: 100%;
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+a  {
+	color: #00B7FF;
+}
+
+h4,h2{
+	color: white;
+	font-weight: bold;
+}
+.text-warning {
+    color: #fff5f6;
+}
+.submit-btn {
+	background-color: #b1dbff;
+	margin: 10px 0 10px 0;
+}
+
+.post {
+	padding: 10px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+
+.odd {
+	background-color: #f2f9ff;
+	
+}
+.even {
+	background-color: #eceff3;
+}
+
+.form-auth {
+	max-width: 330px;
+	padding: 5px;
+	margin: 0 auto;
+}
+
+.white-space-pre {
+    white-space: pre-wrap;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;   
+  height: 20px;  
+  text-align: center;
+  clear:both;
+  opacity: 0.50;
+}
+
+.container-float-left-center{
+  position: fixed;
+  top: 50% ;   
+  left:0;
+  text-align: center;
+  clear:both;
+  
+}
